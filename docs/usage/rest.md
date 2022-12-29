@@ -57,7 +57,7 @@ body = {
 client.post({
   path: "products",
   body: body,
-});
+})
 ```
 
 _for more information on the `products` endpoint, [check out our API reference guide](https://shopify.dev/api/admin-rest/unstable/resources/product)._
